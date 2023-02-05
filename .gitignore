@@ -1,0 +1,3 @@
+.terraform/
+.terraform.lock.hcl
+make_execute_container.sh
